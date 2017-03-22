@@ -1,0 +1,53 @@
+{
+  "name": "progcode",
+  "version": "2.0.0",
+  "description": "Progcode Website",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexburgos/progcodeco.git"
+  },
+  "keywords": [
+    "website",
+    "progressive",
+    "coders",
+    "action"
+  ],
+  "author": "Alex Burgos <alexander.burgos1@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexburgos/progcodeco/issues"
+  },
+  "homepage": "https://github.com/alexburgos/progcodeco#readme",
+  "dependencies": {
+    "autoprefixer": "^6.7.7",
+    "babel-cli": "^6.24.0",
+    "babel-core": "^6.24.0",
+    "babel-eslint": "^7.2.0",
+    "babel-loader": "^6.4.1",
+    "babel-preset-es2015": "^6.24.0",
+    "babel-preset-react": "^6.23.0",
+    "babel-preset-stage-0": "^6.22.0",
+    "bourbon": "^4.3.3",
+    "classnames": "^2.2.5",
+    "eslint": "^3.18.0",
+    "eslint-loader": "^1.6.3",
+    "eslint-plugin-import": "^2.2.0",
+    "eslint-plugin-react": "^6.10.3",
+    "jest": "^19.0.2",
+    "node-sass": "^4.5.1",
+    "npm-run-all": "^4.0.2",
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2",
+    "rimraf": "^2.6.1",
+    "sass-loader": "^6.0.3",
+    "webpack": "^2.3.1",
+    "webpack-dev-server": "^2.4.2"
+  }
+}
